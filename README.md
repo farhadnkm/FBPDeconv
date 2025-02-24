@@ -1,3 +1,4 @@
-# FIREBAL
-Filtered Impulse Response-Back-projected deconvolution ALgorithm
-This repository is a placeholder
+# FBPeconv
+Filtered Back Projected Deconvolution Algorithm
+
+Contents coming soon. 
