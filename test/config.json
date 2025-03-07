@@ -1,0 +1,39 @@
+{
+    "measurement": {
+        "DX": 4800e-3,
+        "DY": 4800e-3,
+        "DZ": 250e-3,
+        "WL": 435e-3,
+        "WLEX":405e-3,
+        "NA": 1.42,
+        "MAGN": 60,
+        "Ni": 1.518,
+        "Ni0": 1.518,
+        "Ng": 1.50,
+        "Ng0": 1.50,
+        "Ns": 1.5,
+        "Ti0": 150,
+        "Tg": 170,
+        "Tg0": 170,
+        "Channels":[
+            {
+                "name": "Cy5",
+                "WLex": 647e-3,
+                "WLem": 665e-3
+            },
+            {
+                "name": "FITC",
+                "WLex": 498e-3,
+                "WLem": 517e-3
+            }
+        ]
+    },
+
+    "PSF3D_FastGibsonLanni": {
+        "num_basis": 300, 
+        "num_samples":1000, 
+        "refocus_scan_range":[-100, 0],
+        "refocus_scan_step": 0.1,
+        "lateral_shift": [0.0, 0.0]
+    }
+}
